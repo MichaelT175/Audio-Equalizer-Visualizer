@@ -2,6 +2,7 @@
 
 Welcome to the Audio Equalizer + Visualizer project! This Java based application allows users to play audio files with customizable equalizer settings while viewing real-time visualizations of the audio spectrum.
 
+
 ## Features
 
 ### 🎵 Audio Equalizer
@@ -68,6 +69,7 @@ Welcome to the Audio Equalizer + Visualizer project! This Java based application
 
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/ce1beb1a-7b11-443d-aa4a-1d2c5b3d483f" alt="Image Title" width="350" height="200" />
 
 
 ## Contributing
@@ -97,4 +99,3 @@ Email: mtete175@gmail.com
 GitHub: MichaelT175
 
 Instagram: @michael_t_jr
-
